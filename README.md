@@ -8,7 +8,7 @@
   <a href="https://github.com/moga701">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://discord.gg/elmoga_">
+  <a href="https://discord.com/users/elmoga_">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://w.app/moga">
