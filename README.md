@@ -11,7 +11,7 @@
   <a href="https://discord.gg/tu_invite">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://wa.me/tu_numero">
+  <a href="https://w.app/moga">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
