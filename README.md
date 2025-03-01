@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tu_usuario">
+  <a href="https://github.com/moga701">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://discord.gg/tu_invite">
